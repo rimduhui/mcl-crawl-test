@@ -25,7 +25,7 @@ SECRET_KEY = 'vrna)il75o*lr-w-lbvz27vlw)+t21f5i7f19ht+*210u9cewz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['news4meal.com', '127.0.0.1']
 
 
 # Application definition
